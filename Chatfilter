@@ -130,7 +130,7 @@ trade.*?accepted.*?with.*?for
 (?i)doubling gp or items \d+\s?[gkm] left
 (?i)i do (1|one) trade (doubl|tripl)(e|ing)
 (?i)i'?ll (doubl|tripl)e your \d+\s?[gkm]
-test
+
 (?# Trading and selling)
 (?i)^trading up .*?
 (?i)selling \d{1,3} (trouts?|salmone?s?|tunas?|logs?)
