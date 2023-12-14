@@ -214,7 +214,7 @@ trade.*?accepted.*?with.*?for
 (?i)Every Announced Service Discord Is
 (?i)Be Aware! All G.E Advertise
 (?i)Hi,Everyone. All the G.E Adverment
-
+(?i)<v>100k-500m
 (?# Miscellaneous)
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 (?i)[0-9\.](.*?\/.*?)?u\ss\sd\s?\/\s?m
