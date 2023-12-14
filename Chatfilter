@@ -152,7 +152,7 @@ trade.*?accepted.*?with.*?for
 (?i)huge give\s?aways?.*?(twitch\/?t?v?|youtube)\s?\/
 (?i)j?o?i?n?.*?\d+\s?(\s?[gkm]|million) give\s?aways?
 (?i)(?=.*?giveaway.*?).*?message.*?enter
-
+(?i)Infernal-Cape
 (?# Promotions and advertisements)
 (?i)(best|come play).*?rsps
 (?i)(exchange|swap.*?) ((rs3.*?|eoc.*?)|07|osrs|os) (g(\s?p|old)|money|items?)
@@ -201,6 +201,8 @@ trade.*?accepted.*?with.*?for
 (?i)rsfast
 (?i)^.*runebets.*
 (?i)mainscape
+(?i)S.C.A.M
+
 
 (?# Miscellaneous)
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
