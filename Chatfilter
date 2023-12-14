@@ -215,6 +215,11 @@ trade.*?accepted.*?with.*?for
 (?i)Be Aware! All G.E Advertise
 (?i)Hi,Everyone. All the G.E Adverment
 (?i)<v>100k-500m
+(?i)Guaranteed Lowest Rates (price match)
+(?i)~ Crypto, Cashapp, E-Transfer',
+(?i)Account builds'!
+(?i)Toa kits, Blood torva kits, infernal capes! (922)
+
 (?# Miscellaneous)
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 (?i)[0-9\.](.*?\/.*?)?u\ss\sd\s?\/\s?m
