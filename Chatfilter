@@ -9,7 +9,7 @@
 (?i)i just got (scammed|hacked) (and lost |please help |can anyone help ).*
 (?i)need free (g(\sp|old)|money|items?)
 (?i)please need \d+\s?[gkm]( i'?m new)?
-
+(?i)Be Aware!
 (?# Gambling and begging)
 (?i) bet is between \d+\s?[gkm]\s?-\s?\d+\s?[gkm]
  (?i).*? has rec(ei|ie)ved: \d+\s?[gkm]\s?$
