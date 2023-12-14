@@ -8,6 +8,8 @@
 (?i)(could|can|might) use (some )?help with (a )?bond
 (?i)i just got (scammed|hacked) (and lost |please help |can anyone help ).*
 (?i)need free (g(\sp|old)|money|items?)
+(?i)Could someone gift (me|items|gold)
+(?i)spending 2.147m
 (?i)please need \d+\s?[gkm]( i'?m new)?
 (?i)Be Aware!
 (?i)All Advertment
