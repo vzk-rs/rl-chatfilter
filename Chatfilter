@@ -1,6 +1,6 @@
 (?# Donations and begging)
 (?i)^(can|need) someone (to )?donate
-(?i)^i need (gp|gold|money|items?) ?(please|pl(s|z))
+(?i)^i need (free|gift|gp|gold|money|items?) ?(please|pl(s|z))
 (?i)(?<!not )\b(accepting|taking)\b( all\b| unwanted\b)?\b(donations?\b|junk\b)
 (?i)any\s(1|one) (spare |help with )((a )?(g(\sp|old)|money|items?|bond)|some junk)
 (?i)can anyone.*?donate me (g(\sp|old)|money|items?)
@@ -10,6 +10,7 @@
 (?i)need free (g(\sp|old)|money|items?)
 (?i)please need \d+\s?[gkm]( i'?m new)?
 (?i)Be Aware!
+(?i)All Advertment
 (?# Gambling and begging)
 (?i) bet is between \d+\s?[gkm]\s?-\s?\d+\s?[gkm]
  (?i).*? has rec(ei|ie)ved: \d+\s?[gkm]\s?$
