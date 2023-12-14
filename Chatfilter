@@ -12,6 +12,7 @@
 (?i)Could someone gift (me|items|gold)
 (?i)spending 2.147m
 (?i)please need \d+\s?[gkm]( i'?m new)?
+(?i)Max Cash for all bank
 (?i)Be Aware!
 (?i)All Advertment
 (?# Gambling and begging)
