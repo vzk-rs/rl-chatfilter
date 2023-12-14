@@ -207,6 +207,8 @@ trade.*?accepted.*?with.*?for
 (?i)^.*runebets.*
 (?i)mainscape
 (?i)S.C.A.M
+(?i)All Advertment's Are Fake!
+(?i)me dragon hunter crossbow please<3
 
 
 (?# Miscellaneous)
