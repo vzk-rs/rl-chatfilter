@@ -192,7 +192,7 @@ trade.*?accepted.*?with.*?for
 (?i).*?ttv\/.*?
 (?i)^.*\[.+\] is a known (scamm|lur)er
 (?i).*?we.*?accept.*?payment.*?methods
-
+(?i)Bets Coin 2B
 (?# Specific adverts)
 (?i)partypetegp
 (?i)infernocape.com
