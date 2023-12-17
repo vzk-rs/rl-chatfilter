@@ -228,6 +228,7 @@ trade.*?accepted.*?with.*?for
 (?i)Discord·gg/osgold ~ Crypto, Cashapp, E-transfer', Skrill, Venmô, Zelle  
 (?i)Discord.Gg/Jagex ~ W E   B E A T  A L L  P R I C E S !  C H E A P E S T
 (?i)Discord·gg/Jagex ~ Best Prices, 8000+ Customer Reviews', U S A based 
+(?i)Discord·gg/Jagex 
 (?# Miscellaneous)
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 (?i)[0-9\.](.*?\/.*?)?u\ss\sd\s?\/\s?m
