@@ -231,6 +231,8 @@ trade.*?accepted.*?with.*?for
 (?i)Discord·gg/Jagex 
 (?i)M each player  8B Giveaway,Qutting  search 0n youtube:Hizz99r
 (?i)Qutting  search 0n youtube
+(?i)Warning [()] is a hacker. Do not add them!
+(?i)[()]] will try send you virus over discord be careful!
 (?# Miscellaneous)
 (?i)s\s*e\s*l\s*l\s*r\s*s\s*0\s*7
 (?i)[0-9\.](.*?\/.*?)?u\ss\sd\s?\/\s?m
